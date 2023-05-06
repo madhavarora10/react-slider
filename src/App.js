@@ -5,7 +5,7 @@ import Slider from './component/Slider';
 function App() {
   return (
     <div className="App">
-     <Slider/>
+     <Slider index={2} />
     </div>
   );
 }
